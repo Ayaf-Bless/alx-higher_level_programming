@@ -1,5 +1,7 @@
 # python exceptions
-```try:
+```
+try:
 	python_is_wow()
 except:
-	python_is_still_wow_shut_up()```
+	python_is_still_wow_shut_up()
+```
